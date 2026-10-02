@@ -2,7 +2,7 @@
 
 **Course:** Columbia Startup Studio, Fall 2026  
 **Due:** October 2, 2026, at the start of class  
-**Team members confirmed in the repository:** Michelle Mai (mhm2197), Lookman Mustapha (lm3693)
+**Team members:** Michelle Mai (mhm2197), Lookman Mustapha (lm3693), Sam (full name and UNI pending)
 
 We explored two ideas through ten documented interviews: five for a group chat planning bot and five for a student subleasing/rental platform. The interviews suggest narrowing both ideas. Discovery and scheduling are distinct problems for the bot; trust and access to personal networks are central to the housing idea. Neither product has demonstrated paid demand yet.
 
