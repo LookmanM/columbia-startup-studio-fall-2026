@@ -8,7 +8,7 @@ These are the two scripts from the team’s interview kit. The notes do not esta
 
 ### Part 1. Opening (2 min). Do not pitch.
 
-"Hi, I'm [name]. I'm working on a class project at Columbia, exploring how friend groups make plans together. I'm not selling anything. I just want to understand your experience. Would you mind chatting for about 25 minutes?"
+"Hi, we're Lookman, Michelle, and Sam. We're working on a class project at Columbia, exploring how friend groups make plans together. We're not selling anything. We just want to understand your experience. Would you mind chatting for about 25 minutes?"
 
 "By the way, it's OK to be brutally honest with me. You can't hurt my feelings. That's how we improve our ideas."
 
@@ -75,7 +75,7 @@ Keep asking why. Listen for sighs, eye rolls, and rants.
 
 ### Part 1. Opening (2 min). Do not pitch.
 
-"Hi, I'm [name]. I'm working on a class project at Columbia, exploring how students find places to live and sublease. I'm not selling anything. I just want to understand your experience. Would you mind chatting for about 25 minutes?"
+"Hi, we're Lookman, Michelle, and Sam. We're working on a class project at Columbia, exploring how students find places to live and sublease. We're not selling anything. We just want to understand your experience. Would you mind chatting for about 25 minutes?"
 
 "By the way, it's OK to be brutally honest with me. You can't hurt my feelings. That's how we improve our ideas."
 
